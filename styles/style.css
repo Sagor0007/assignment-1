@@ -1,0 +1,111 @@
+header {
+    background-image: url('../resources/Banner\ Image.png');
+    border-radius: 16px;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.header-title {
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 32px;
+    font-weight: 400;
+}
+
+.header-h1 {
+    color: #FFF;
+    text-align: center;
+    padding: 0px 300px 144px;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+}
+
+.header-div {
+    padding: 100px;
+}
+
+.skill-h1 {
+
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.skill-h3 {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.skill-h2 {
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.image-newyear {
+    width: 802.9px;
+    height: 500px;
+    flex-shrink: 0;
+    justify-content: center;
+}
+
+.second {
+    background: #FFF;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+.Welcome {
+    background-image: url('../resources/Vectorrr.png');
+    background-position: center center;
+    background-repeat: no-repeat;
+
+    width: 1320px;
+    height: 600px;
+
+}
+
+.party {
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 64px;
+    font-weight: 900;
+
+    justify-self: start;
+}
+
+.gift {
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+
+}
+
+.portfolio {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: capitalize;
+}
