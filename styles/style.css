@@ -1,306 +1,474 @@
- *body {
-     max-width: 1400px;
- }
+.new-header {
+    background: linear-gradient(to top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 1)), url('../resources/Banner\ Image.png');
+    width: 1320px;
+    height: 600px;
+    border-radius: 16px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 
+}
+
+.new-title {
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 40px;
+    font-weight: 400;
+    padding: 150px 0px 0px 0px;
+
+}
+
+.new-h1 {
+    color: #FFF;
+    text-align: center;
+    width: 632px;
+    font-family: Merriweather;
+    font-size: 80px;
+    padding: 0px 350px;
+}
+
+.skill-h1 {
+
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
 
- .header {
+.skill-h3 {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
 
-     background: linear-gradient(to top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 1)), url('../resources/Banner\ Image.png');
-     width: 1320px;
-     border-radius: 16px;
-     background-position: center center;
-     background-repeat: no-repeat;
-     display: block;
-     margin-left: auto;
-     margin-right: auto;
-     margin-top: 60px;
+.skill-h2 {
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+}
 
- }
+.image-newyear {
+    width: 802.9px;
+    height: 500px;
 
- .header-title {
-     color: #FFF;
-     text-align: center;
-     font-family: Merriweather;
-     font-size: 32px;
-     font-weight: 400;
+    justify-content: center;
+}
+
+.second {
+    background: #FFF;
+    text-align: center;
+}
+
+
+
+
+
+
 
- }
 
- .header-h1 {
-     color: #FFF;
-     text-align: center;
-     padding: 0px 300px 200px;
-     font-family: Merriweather;
-     font-size: 72px;
 
-     font-weight: 900;
- }
 
- .header-div {
-     padding: 80px;
+.Welcome {
 
- }
+    background: linear-gradient(to left, rgba(0, 0, 0, 0), rgba(0, 0, 0, 1)), url('../resources/Vectorrr.png');
+    background-position: center center;
+    background-repeat: no-repeat;
+    border-radius: 16px;
+    width: 1320px;
+    height: 600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 
- .skill-h1 {
+}
 
-     color: #F00;
-     text-align: center;
-     font-family: Inter;
-     font-size: 88px;
-     font-style: normal;
-     font-weight: 700;
-     line-height: normal;
- }
+.party-new {
+    display: flex;
+}
 
- .skill-h3 {
-     color: #F00;
-     text-align: center;
-     font-family: Inter;
-     font-size: 24px;
-     font-weight: 500;
- }
 
- .skill-h2 {
-     color: #070211;
-     text-align: center;
-     font-family: Inter;
-     font-size: 48px;
-     font-weight: 700;
- }
+.party {
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 64px;
+    font-weight: 900;
+    width: 642px;
+    padding: 80px 0px 00px 126px;
+}
 
- .image-newyear {
-     width: 802.9px;
-     height: 500px;
-
-     justify-content: center;
- }
-
- .second {
-     background: #FFF;
-     text-align: center;
- }
+.pragraph {
+    width: 697px;
+    color: rgba(255, 255, 255, 0.80);
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    padding: 0px 0px 0px 126px;
 
+}
 
+.button-join {
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    border: none;
+    background-color: rgba(17, 1, 1, 0);
+    padding: 20px 0px 0px 160px;
+}
+
+.new {
+    display: flex;
+    width: 319.83px;
+    height: 464.662px;
+    padding: 80px 0px 0px 0px;
+}
+
+
+
+
+
+.best {
+    width: 1320px;
+    /* height: 482px; */
+}
+
+
+
+.gift {
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    padding: 40px 0px 0px;
+    width: 697px;
+
+}
+
+.portfolio {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: capitalize;
+}
 
+.dolor {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    width: 896px;
 
 
 
+}
 
+.image-six {
+    /* width: 630px; */
 
+    margin-left: auto;
+    margin-right: auto;
+}
 
+.img-six {}
 
- .Welcome {
 
-     background: linear-gradient(to left, rgba(0, 0, 0, 0), rgba(0, 0, 0, 1)), url('../resources/Vectorrr.png');
-     /* background-image: url('../resources/Vectorrr.png'); */
-     background-position: center center;
-     background-repeat: no-repeat;
 
-     width: 1320px;
-     height: 600px;
 
-     display: block;
-     margin-left: auto;
-     margin-right: auto;
-
- }
-
- .party-new {
-     display: flex;
- }
-
-
- .party {
-     color: #FFF;
-     font-family: Merriweather;
-     font-size: 64px;
-     font-weight: 900;
-     width: 642px;
-     padding: 126px 0px 00px 126px;
- }
-
- .pragraph {
-     width: 697px;
-     color: rgba(255, 255, 255, 0.80);
-     font-family: Inter;
-     font-size: 18px;
-     font-weight: 400;
-     line-height: 30px;
-     padding: 0px 0px 0px 126px;
-
- }
-
- .button-join {
-     color: #FFF;
-     text-align: center;
-     font-family: Inter;
-     font-size: 20px;
-     font-weight: 700;
-     border: none;
-     background-color: rgba(17, 1, 1, 0);
-     padding: 0px 0px 0px 126px;
- }
-
- .new {
-     display: flex;
-     width: 319.83px;
-     height: 464.662px;
-     padding: 80px 0px 0px 0px;
-
- }
-
- .gift {
-     color: #F00;
-     font-family: Inter;
-     /* font-size: 24px;
-     font-weight: 500; */
-     padding: 40px 0px 0px;
-     width: 697px;
-
- }
-
- .portfolio {
-     color: #070211;
-     font-family: Merriweather;
-     font-size: 48px;
-     font-weight: 900;
-     text-transform: capitalize;
- }
-
- .dolor {
-     color: rgba(7, 2, 17, 0.60);
-     font-family: Inter;
-     font-size: 20px;
-     font-weight: 400;
-     line-height: 32px;
-     width: 896px;
-
-
-
- }
-
- .image-six {}
-
-
- .img-three {
-     justify-content: center display: flex;
-     gap: 10px;
- }
-
- .img-six {
-     justify-content: center display: flex;
-     gap: 10px;
- }
-
- .group {
-     display: block;
-     margin-left: auto;
-     margin-right: auto;
-
-     width: 150px;
-     height: 150px;
-     flex-shrink: 0;
-     padding: 100px 0px 0px;
- }
-
- .message {
-     width: 1320px;
-     height: 616px;
-     border-radius: 16px;
-     background: rgba(255, 0, 0, 0.05);
-     display: block;
-     margin-left: auto;
-     margin-right: auto;
-
- }
-
- .news {
-     color: #070211;
-     text-align: center;
-     font-family: Merriweather;
-     font-size: 48px;
-     font-weight: 900;
-     text-transform: capitalize;
- }
-
- .dolor-sit {
-
-     color: rgba(7, 2, 17, 0.60);
-     text-align: center;
-     font-family: Inter;
-     font-size: 20px;
-     text-transform: capitalize;
- }
-
- .input-two {
-     border-radius: 50px;
-     background: #FFF;
-     text-align: center;
-
-     width: 648px;
-     height: 72px;
-
- }
-
- .footer {
-
-     background: #070211;
-     width: 1400px;
-     height: 700px;
-     display: block;
-     margin-left: auto;
-     margin-right: auto;
-
- }
-
- .white-one {
-     color: #FFF;
-     font-family: Inter;
-     font-size: 24px;
-     font-weight: 500;
-     line-height: 40px;
-     padding: 50px 0px 0px 120px;
-
- }
-
- .white-two {
-     color: #FFF;
-     font-family: Inter;
-     font-size: 24px;
-     font-weight: 500;
-     line-height: 40px;
-     padding: 50px 120px 0px 0px;
-
- }
-
- .white {
-     display: flex;
-     justify-content: space-between;
- }
-
- .hoo {
-     background: rgba(255, 255, 255, 0.15);
-     width: 1320px;
-     height: 1px;
- }
-
- .logo {
-     align-items: center;
-     padding: 100px 550px;
- }
-
- .white-all {
-     color: #FFF;
-     font-family: Inter;
-     padding: 40px 0px 100px 120px;
-     font-size: 24px;
-     font-weight: 500;
- }
-
- .white-un {
-     color: #FFF;
-     font-family: Inter;
-     padding: 40px 120px 100px 0px;
-     font-size: 24px;
-     font-weight: 500
- }
+.new-massage {
+
+    margin-top: 100px;
+    margin-bottom: 100px;
+    width: 1320px;
+    height: 616px;
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.new-group {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 150px;
+    height: 150px;
+    flex-shrink: 0;
+    padding: 100px 0px 0px;
+
+}
+
+.new-news {
+    color: #070211;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: capitalize;
+}
+
+.new-dolorsit {
+    width: 896px;
+    text-align: center;
+    padding: 0px 212px;
+    color: rgba(7, 2, 17, 0.60);
+    padding: 0px 212px;
+    font-family: Inter;
+    font-size: 20px;
+    text-transform: capitalize;
+}
+
+
+
+.new-inputtwo {
+    text-align: center;
+}
+
+.new-email {
+    border-radius: 50px 0px 0px 50px;
+    background: #FFF;
+    border: none;
+    width: 648px;
+    height: 72px;
+
+}
+
+.new-button {
+    border-radius: 0px 50px 50px 0px;
+    background: #F00;
+    width: 210px;
+    height: 72px;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 600;
+    border: none;
+
+
+
+
+}
+
+
+
+
+.footer {
+
+    background: #070211;
+    width: 1400px;
+    height: 700px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.white-one {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 40px;
+    padding: 50px 0px 0px 120px;
+
+}
+
+.white-two {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 40px;
+    padding: 50px 120px 0px 0px;
+
+}
+
+.white {
+    display: flex;
+    justify-content: space-between;
+}
+
+.hoo {
+    background: rgba(255, 255, 255, 0.15);
+    width: 1320px;
+    height: 1px;
+}
+
+.logo {
+    align-items: center;
+    padding: 100px 550px;
+}
+
+.white-all {
+    color: #FFF;
+    font-family: Inter;
+    padding: 40px 0px 100px 120px;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.white-un {
+    color: #FFF;
+    background-color: #070211;
+    border: none;
+    font-family: Inter;
+    padding: 40px 120px 100px 0px;
+    font-size: 24px;
+    font-weight: 500
+}
+
+
+/* primery */
+
+.place {
+    color: red;
+}
+
+.list {
+    list-style: none;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 56px;
+    text-transform: capitalize;
+    padding: 100px 380px 210px;
+}
+
+.list-all {
+    fill: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+    background: rgba(255, 0, 0, 0.05);
+    width: 1320px;
+    height: 482px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 16px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.offer {
+    width: 1600px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 16px;
+    margin-bottom: 100px;
+}
+
+.class-one {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    padding: 50px 100px 0px 0px;
+}
+
+.class-two {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    text-align: center;
+    text-transform: capitalize;
+    padding: 0px 100px 0px 80px;
+}
+
+.class-three {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    width: 393px;
+    padding: 0px 0px 0px 180px;
+
+}
+
+.class-four {
+    color: #F00;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+    padding: 0px 0px 0px 300px;
+
+}
+
+.class-five {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    width: 276px;
+    font-weight: 400;
+    line-height: 32px;
+    padding: 0px 0px 0px 200px;
+
+}
+
+.class-six {
+    padding: 0px 0px 0px 200px;
+
+}
+
+.class-image {
+    padding: 0px 0px 0px 80px;
+    border-radius: 100px;
+    border-color: #F00;
+}
+
+.what {
+    text-align: center;
+}
+
+.red {
+    color: red;
+}
+
+.what-one {
+    color: #070211;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    margin: 10px 0px;
+    list-style: none;
+
+}
+
+.what-two {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-weight: 900;
+    list-style: none;
+
+
+}
+
+.what-three {
+    color: rgba(7, 2, 17, 0.60);
+    width: 1068px;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 32px;
+    margin-left: auto;
+    margin-right: auto;
+   
+
+    
+}
