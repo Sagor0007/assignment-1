@@ -278,6 +278,19 @@
     justify-content: space-between;
 }
 
+
+.black{
+    background-color: #070211;
+    color: #FFF;
+    border: none;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 40px
+}
+
+
+
 .hoo {
     background: rgba(255, 255, 255, 0.15);
     width: 1320px;
@@ -324,9 +337,6 @@
     text-transform: capitalize;
     padding: 100px 380px 210px;
 }
-
-
-
 
 
 
@@ -469,28 +479,40 @@
 
 }
 
+
 .red-buttom {
     background-image: url('../resources/Rectangle\ 2.png');
     background-repeat: no-repeat;
     background-position: bottom;
     width: 1320px;
-    /* height: 600px; */
     display: block;
     margin-left: auto;
     margin-right: auto;
+    z-index: 1;
 
 }
 
-/* .red-buttom{
-    background-image: url('../resources/Rectangle\ 1.png');
-    background-repeat: no-repeat;
-    background-position: top right;
-} */
+.group-two{
+    position: left;
+    padding: 0px 00px 0px 0px ;
+}
+
+.Group-three{
+    z-index: 1;
+    position: absolute;
+    margin: 30px 0px 0px 700px;
+}
+
+
 
 .Rectanonegle-one {
-    padding: 0px 0px 226px 0px;
+    padding: 0px 0px 229px 93px;
+    margin-right: none;
+    
+   
 }
 
 .group-pic {
     display: flex;
+   width: 1320;
 }
